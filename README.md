@@ -27,13 +27,7 @@ personal platform.
 - **Mission-critical software logic** — C++
 - **RAG-based AI chatbots**
 - **Interactive 2D games** — Unity
-
-### 🎓 Community & learning
-- Mentoring students in **CNG 140 (C Programming)** at METU
-- Competed in **IEEExtreme 17.0** global hackathon
-- Selected for the **National Competence Training Camp** — Defence Industry Academy
-- Active participant in **Free Software Winter Camps** (Cryptology & Blockchain)
-
+  
 ---
 
 📬 More about me at **[www.efekan.org](https://www.efekan.org)**
