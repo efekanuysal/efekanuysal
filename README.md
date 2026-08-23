@@ -14,7 +14,7 @@ Off-hours: experimenting with LLM integrations and architecting a scalable, full
 personal platform.
 
 ### ☀️ Daytime stack
-`Python (FastAPI)` `Flutter` `Firebase` `Firestore`
+`Python (FastAPI)` `Flutter` `Firebase` `Firestore` `React`
 
 ### 🌙 Nighttime stack
 `React` `Next.js` `Tailwind CSS` `Prisma` `Java Spring Boot` `PostgreSQL` `Docker` `Redis` `React Native`
